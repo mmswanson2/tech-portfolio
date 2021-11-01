@@ -3,12 +3,8 @@ id: projects
 title: Projects
 ---
 
-Embed any notable projects in this page.
+"Build Your Resume"
 
-For example, my favorite project would be linked and I can even embed
-a screenshot or GIF to show it.
+is a resume builder website created while taking a Javascript class.
 
-You can list [links](https://www.hashicorp.com/resources/test-driven-development-tdd-for-infrastructure)
-or even embed images with the following Markdown:
-
-![Add alternate text for image](./assets/rosemary.png)
+![Add alternate text for image](./assets/ResumeBuilder.jpg)
