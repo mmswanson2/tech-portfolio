@@ -7,4 +7,4 @@ title: Projects
 
 is a resume builder website created while taking a Javascript class.
 
-![Add alternate text for image](./assets/ResumeBuilder.jpg)
+![Resume Builder Home Page](./assets/ResumeBuilder.JPG)
